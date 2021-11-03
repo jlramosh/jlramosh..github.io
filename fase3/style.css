@@ -31,6 +31,7 @@ aside{
     text-align: center;
 }
 section{
+    
     flex: 70%;
     background-color: khaki;
     padding: 20px;
