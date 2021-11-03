@@ -17,7 +17,7 @@
     <nav>
         <a href="../index.html">Inicio</a>
         <a href="#">Temas</a>
-        <li><a href="#">Tema_1</a></li>
+        <li><a href="../fase3/Tema_1.html">Tema_1</a></li>
         <li><a href="#">Tema_2</a></li>
         <a href="#">Recursos Virtuales</a>
         <li><a href="#">Recurso_1</a></li>
@@ -34,11 +34,14 @@
         </aside>
         <section>
             ><h2>
-                <h2><strong> Proposito del Sitio</strong></h2>
-              
-              <p>El proposito del sitio web. es el de realizar la Tercera fase del
-                   <strong> Diseño de Sitios Web</strong> en el cual vamos a poner en conocimiento
-                <p> el uso de los layout utilizando herramientas como  flex box y css grid ingresandoles atributos a cada uno para obtener un mejor diseño de pagina web como tambien en su contenido dar a conocer  <strong> Listas</strong>  y los <strong> Enlaces </strong> en la creacion de paginas web dando una descripcion completa y facil de entender.</p>
+                <h2>FLEXBOX</h2>
+                <strong>FLEXBOX</strong></h1>
+                <p>Diseño de Caja Flexible, comúnmente conocido como Flexbox1​, es un modelo de diseño CSS3.2​ Está en la etapa de recomendación de candidatos (CR) del W3C.3​ La disposición de flexbox permite que los elementos adaptables dentro de un contenedor se organicen automáticamente dependiendo del tamaño de la pantalla o del dispositivo.</p>
+            <img src="../fase2/flex box.PNG" alt="">
+               
+                <p> Bibliografía Wikipedia contributors.CSS Flex Box Layout Wikipedia. 
+                    Recuperado el 5 de Octubre de 2020. <a href="https://es.wikipedia.org/wiki/CSS_Flexible_Box_Layout" target="blank">https://es.wikipedia.org/wiki/CSS_Flexible_Box_Layout</a></p>
+    
             </section>
             </h2>
         </section>
